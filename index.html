@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="page-title"></title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="#" class="nav-name" id="nav-name"></a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#olympiads">Olympiads</a></li>
+      <li><a href="#work">Work</a></li>
+      <li><a href="#art">Art</a></li>
+      <li><a href="#other">Other</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="nav-toggle" aria-label="Toggle menu">☰</button>
+  </nav>
+
+  <main>
+    <section id="about">
+      <div class="hero">
+        <h1 id="hero-name"></h1>
+        <p id="hero-tagline" class="tagline"></p>
+      </div>
+      <div class="section-body">
+        <p id="about-text"></p>
+        <div class="education" id="education-list"></div>
+      </div>
+    </section>
+
+    <section id="olympiads">
+      <h2>Olympiad wins</h2>
+      <div class="section-body">
+        <ul class="olympiad-list" id="olympiad-list"></ul>
+      </div>
+    </section>
+
+    <section id="work">
+      <h2>Work &amp; Civic</h2>
+      <div class="section-body">
+        <div class="entries" id="work-list"></div>
+      </div>
+    </section>
+
+    <section id="art">
+      <h2>Art</h2>
+      <div class="section-body">
+        <div class="entries" id="art-list"></div>
+      </div>
+    </section>
+
+    <section id="other">
+      <h2>Other</h2>
+      <div class="section-body">
+        <div class="entries" id="other-list"></div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <div class="section-body">
+        <p id="contact-email"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="content.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
