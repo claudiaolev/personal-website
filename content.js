@@ -237,22 +237,22 @@ My background is in natural sciences. Medalist at the International Earth Scienc
         { label: "Postimees", url: "https://haridus.postimees.ee/7601255/eesti-noored-said-rahvusvahelisel-maateaduste-olumpiaadil-medalisaju-osaliseks" },
         { label: "Õpetajate Leht", url: "https://opleht.ee/2022/09/eesti-noored-kogesid-rahvusvahelisel-maateaduste-olumpiaadil-medalisadu/" },
         { label: "TalTech", url: "https://taltech.ee/uudised/eesti-noored-said-rahvusvahelisel-maateaduste-olumpiaadil-medalisaju" },
-        { label: "Eesti Loodus", url: "https://www.eestiloodus.ee/arhiiv/Eesti_Loodus10_2022.pdf#page=8" },
+        { label: "Eesti Loodus Magazine (p. 8)", url: "https://www.eestiloodus.ee/arhiiv/Eesti_Loodus10_2022.pdf#page=8" },
         { label: "Maateaduste Olümpiaad", url: "https://mto.ee/tavateated/eesti-noored-said-rahvusvahelisel-maateaduste-olumpiaadil-medalisaju/" },
       ]},
       { category: "International Biology Olympiad — bronze medal (2021)", items: [
         { label: "University of Tartu", url: "https://teaduskool.ut.ee/et/sisu/rahvusvahelisel-bioloogiaolumpiaadil-lahendati-esimese-umbermaailmareisiga-seotud-ulesandeid" },
-        { label: "Horisont", url: "https://www.horisont.ee/arhiiv-2022/Horisont-3-2022.pdf#page=59" },
+        { label: "Horisont Magazine (p. 59)", url: "https://www.horisont.ee/arhiiv-2022/Horisont-3-2022.pdf#page=59" },
       ]},
       { category: "European Olympiad of Experimental Sciences — silver medal (2021)", items: [
         { label: "EOES official 2021 site", url: "https://www.eoes.science/EOES%202021/EOES_2021.html" },
         { label: "University of Tartu", url: "https://teaduskool.ut.ee/et/sisu/eksperimentaalteaduste-olumpiaadil-uuriti-mett-ja-joevett" },
-        { label: "Horisont", url: "https://www.horisont.ee/arhiiv-2021/Horisont-4-2021.pdf#page=62" },
-        { label: "Eesti Loodus", url: "https://www.eestiloodus.ee/arhiiv/Eesti_Loodus06_2021.pdf#page=10" },
+        { label: "Horisont Magazine (p. 62)", url: "https://www.horisont.ee/arhiiv-2021/Horisont-4-2021.pdf#page=62" },
+        { label: "Eesti Loodus Magazine (p. 10)", url: "https://www.eestiloodus.ee/arhiiv/Eesti_Loodus06_2021.pdf#page=10" },
         { label: "Tallinna Reaalkool", url: "https://real.edu.ee/blog/2021/05/26/hobemedalid-euroopa-eksperimentaalteaduste-olumpiaadil/" },
       ]},
       { category: "International Junior Science Olympiad — bronze medal (2019)", items: [
-        { label: "Eesti Loodus", url: "https://www.eestiloodus.ee/arhiiv/Eesti_Loodus02_2020.pdf#page=79" },
+        { label: "Eesti Loodus Magazine (p. 79)", url: "https://www.eestiloodus.ee/arhiiv/Eesti_Loodus02_2020.pdf#page=79" },
       ]},
       { category: "34th International Real Sciences Olympiad — 2nd place in Chemistry (2021)", items: [
         { label: "Gustav Adolfi Gümnaasium", url: "https://gag.ee/loppes-34-rahvusvaheline-reaalainete-olumpiaad/" },
