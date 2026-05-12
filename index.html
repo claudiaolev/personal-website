@@ -13,8 +13,10 @@
       <li><a href="#about">About</a></li>
       <li><a href="#olympiads">Olympiads</a></li>
       <li><a href="#work">Work</a></li>
+      <li><a href="#civic">Civic</a></li>
       <li><a href="#art">Art</a></li>
       <li><a href="#other">Other</a></li>
+      <li><a href="#log">Log</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
     <button class="nav-toggle" aria-label="Toggle menu">☰</button>
@@ -24,11 +26,13 @@
     <section id="about">
       <div class="hero">
         <h1 id="hero-name"></h1>
-        <p id="hero-tagline" class="tagline"></p>
       </div>
       <div class="section-body">
-        <p id="about-text"></p>
-        <div class="education" id="education-list"></div>
+        <div id="about-sections"></div>
+        <div class="education-block">
+          <h3 class="subsection-label">Education</h3>
+          <div id="education-list"></div>
+        </div>
       </div>
     </section>
 
@@ -40,9 +44,16 @@
     </section>
 
     <section id="work">
-      <h2>Work &amp; Civic</h2>
+      <h2>Work</h2>
       <div class="section-body">
         <div class="entries" id="work-list"></div>
+      </div>
+    </section>
+
+    <section id="civic">
+      <h2>Civic</h2>
+      <div class="section-body">
+        <div class="entries" id="civic-list"></div>
       </div>
     </section>
 
@@ -57,6 +68,20 @@
       <h2>Other</h2>
       <div class="section-body">
         <div class="entries" id="other-list"></div>
+      </div>
+    </section>
+
+    <section id="log">
+      <h2>Log</h2>
+      <div class="section-body">
+        <div id="log-content"></div>
+      </div>
+    </section>
+
+    <section id="media">
+      <h2>Media mentions</h2>
+      <div class="section-body">
+        <ul class="media-list" id="media-list"></ul>
       </div>
     </section>
 
