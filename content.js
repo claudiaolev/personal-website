@@ -11,7 +11,7 @@ My background is in natural sciences. Medalist at the International Earth Scienc
     },
     {
       label: "What I believe in",
-      text: `I believe the next generational companies will be in bio. The cultural signals (GLP-1s, peptides, the longevity boom, etc.) are early signs of a larger shift. The founders building these companies, as we move from trial-and-error into design, will have more in common with the post-2000s tech wave than with traditional biotech.`,
+      text: `I believe the next generational companies will be in bio. The cultural signals (GLP-1s, other peptides, the longevity boom, etc.) are early signs of a larger shift. The founders building these companies, as we move from trial-and-error into design, will have more in common with the post-2000s tech wave than with traditional biotech.`,
     },
   ],
 
