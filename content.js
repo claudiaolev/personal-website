@@ -70,6 +70,12 @@ My background is in natural sciences. Medalist at the International Earth Scienc
 
   work: [
     {
+      role: "Platform Intern",
+      org: "Pebblebed",
+      period: "Summer 2026",
+      bullets: [],
+    },
+    {
       role: "Communication Manager",
       org: "Biopunk Lab (through Minerva University's Civic Partnership program)",
       period: "2025–2026",
