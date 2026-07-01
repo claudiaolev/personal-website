@@ -84,7 +84,7 @@ My background is in natural sciences. Medalist at the International Earth Scienc
       ],
     },
     {
-      role: "Writing Tutor",
+      role: "Teaching Assistant",
       org: "Minerva University",
       period: "2025–2026",
       bullets: [
