@@ -74,7 +74,7 @@ My background is in natural sciences. Medalist at the International Earth Scienc
       org: "Pebblebed",
       period: "Summer 2026",
       bullets: [
-        "Worked on the platform team at a technical VC firm founded by Keith Adams (founder of Facebook AI Research), Pamela Vagata (OpenAI founding member), and Tammie Siew (previously at Sequoia).",
+        "Worked as a platform intern at a technical VC firm founded by Keith Adams (founder of Facebook AI Research), Pamela Vagata (OpenAI founding member), and Tammie Siew (previously at Sequoia).",
         "Mapped ML and biotech ecosystems and organized events, incl. a whole-cell modeling panel with Noetik, Prima Mente, E11 Bio.",
       ],
     },
