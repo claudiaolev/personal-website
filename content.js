@@ -5,7 +5,7 @@ const CONTENT = {
   about: [
     {
       label: "Who I am",
-      text: `I'm an undergraduate at Minerva University (Social Sciences & Biology), currently based in San Francisco. I grew up in Tallinn, Estonia.
+      text: `I'm a second-year undergraduate at Minerva University (Economics & Biology), currently based in Tokyo. I grew up in Tallinn, Estonia.
 
 My background is in natural sciences. Medalist at the International Earth Science Olympiad (gold and silver), International Biology Olympiad (bronze), European Olympiad of Experimental Sciences (silver), and International Climate Science Olympiad (bronze). Five-time Estonian Biology Olympiad winner.`,
     },
@@ -18,7 +18,7 @@ My background is in natural sciences. Medalist at the International Earth Scienc
   education: [
     {
       school: "Minerva University",
-      detail: "Social Sciences and Biology",
+      detail: "Double Major in Economics and Cells & Organisms",
       period: "2025–present",
       location: "Global",
     },
@@ -73,7 +73,18 @@ My background is in natural sciences. Medalist at the International Earth Scienc
       role: "Platform Intern",
       org: "Pebblebed",
       period: "Summer 2026",
-      bullets: [],
+      bullets: [
+        "Worked on the platform team at a technical VC firm founded by Keith Adams (founder of Facebook AI Research) and Pamela Vagata (OpenAI founding member).",
+        "Mapped ML and biotech ecosystems and organized events, incl. a whole-cell modeling panel with Noetik, Prima Mente, E11 Bio.",
+      ],
+    },
+    {
+      role: "Consultant",
+      org: "180 Degrees Consulting",
+      period: "Summer 2026",
+      bullets: [
+        "Delivered a partnership strategy and donor-outreach workflows for a U.S. civic-education nonprofit.",
+      ],
     },
     {
       role: "Communication Manager",
@@ -84,11 +95,11 @@ My background is in natural sciences. Medalist at the International Earth Scienc
       ],
     },
     {
-      role: "Teaching Assistant",
+      role: "Teaching Assistant, Empirical Analyses",
       org: "Minerva University",
-      period: "2025–2026",
+      period: "Fall 2026–present",
       bullets: [
-        "Provided writing support to fellow students, helping strengthen argumentation, structure, and clarity across academic assignments.",
+        "Give written, rubric-based feedback on weekly work for ~20 students on empirical reasoning and problem-solving.",
       ],
     },
     {
@@ -102,6 +113,14 @@ My background is in natural sciences. Medalist at the International Earth Scienc
   ],
 
   civic: [
+    {
+      role: "Founder",
+      org: "Minerva Finance & Investment Society",
+      period: "2026–present",
+      bullets: [
+        "Founded a society across Minerva's San Francisco, Tokyo, Buenos Aires, and Berlin cohorts, with a student investment fund.",
+      ],
+    },
     {
       role: "Founder",
       org: "Noorte Keskkonnaühisus (Youth Environmental Association)",
