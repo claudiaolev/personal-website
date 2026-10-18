@@ -79,6 +79,14 @@ My background is in natural sciences. Medalist at the International Earth Scienc
       ],
     },
     {
+      role: "Student Researcher, Global Civic Project",
+      org: "Tokyo Metropolitan Government × Minerva",
+      period: "Fall 2026–present",
+      bullets: [
+        "Selected to work with the Tokyo Metropolitan Government to develop urban heat-adaptation solutions for Tokyo.",
+      ],
+    },
+    {
       role: "Consultant",
       org: "180 Degrees Consulting",
       period: "Summer 2026",
